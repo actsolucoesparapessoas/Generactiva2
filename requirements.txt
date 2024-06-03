@@ -1,0 +1,7 @@
+streamlit
+pandas
+click<=8.0.4
+GoogleNews
+newspaper3k
+deep_translator
+pynput
